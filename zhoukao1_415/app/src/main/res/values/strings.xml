@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zhoukao1_415</string>
+    <string name="name">请输入手机号</string>
+    <string name="pwd">请输入密码</string>
+    <string name="login">立即登录</string>
+    <string name="login_button">登录</string>
+    <string name="ljzc">立即注册</string>
+    <string name="ljzc_button">注册</string>
+    <string name="zk1">Android电商项目实战第一周周考</string>
+    <string name="fh">返回</string>
+    <string name="yhzl">用户资料</string>
+
+</resources>
